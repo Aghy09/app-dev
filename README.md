@@ -2,7 +2,7 @@
 
 ## Home Alone
 
-**Information about the movie**
+**Details about the movie**
 
 Home Alone is a 1990 American Christmas comedy film directed by Chris Columbus and written and produced by John Hughes. 
 The first film in the Home Alone franchise, the film stars Macaulay Culkin, Joe Pesci, Daniel Stern, John Heard, and Catherine O'Hara.
